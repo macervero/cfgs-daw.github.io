@@ -11,3 +11,7 @@ Els alumnes la realitzen en grups de 2.
 ```
 
 {% include list.liquid %}
+
+<div style="border: black solid 1px;">
+   Faig una prova amb una div
+</div>
