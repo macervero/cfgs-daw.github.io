@@ -1,2 +1,3 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: rundocs/jekyll-rtd-theme
 title: Repositori del CFGS - Desenvolupament d'Aplicacions Web
